@@ -26,7 +26,7 @@
 #### 3. 将编辑好的markdown文件导出为word文件，即可得到轻量级功能的word文件。
 
 
-<img src="./屏幕截图 2024-12-27 003414.png" alt="导出为word文件" style="display:block;margin-left: auto;margin-right: auto;">
+<img src="./屏幕截图 2024-12-27 003154.png" alt="导出为word文件" style="display:block;margin-left: auto;margin-right: auto;">
 
 
 这种利用markdown的方式可以方便作者更好的专注于内容本身的完善和文章层次的逻辑性，而不用过多关注排版的细节，提高工作效率。
